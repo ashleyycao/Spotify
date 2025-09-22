@@ -1,7 +1,7 @@
 # Spotify Wrapped and Music Recommendation System
 Analyzed and visualized user listening habits, including top tracks, artists, and genres, to generate personalized music recommendations.
 
-<img width="1183" alt="spotify.png" src="https://raw.githubusercontent.com/ashleyycao/Spotify/0e6e41d6244b4a6e498e14c168bb4e61a2d9e6df/spotify.png">
+<img width="1183" alt="spotify.png" src="https://github.com/ashleyycao/Spotify/blob/0e6e41d6244b4a6e498e14c168bb4e61a2d9e6df/spotify.png">
 
 
 https://github.com/ashleyycao/Spotify/blob/0e6e41d6244b4a6e498e14c168bb4e61a2d9e6df/spotify.png
