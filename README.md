@@ -5,14 +5,6 @@ Analyzed and visualized user listening habits, including top tracks, artists, an
 
 Key Findings
 ---
-1. **Top Artists**: Aimer, Big Time Rush, SCANDAL, SZA, Emotional Oranges
-2. **Top Tracks**: Change (with Kehlani), Line of sight, emulation (mode:totonee), AM03:00, April Showers
-3. **Most Active Listening Hours**: 23:00-23:59, 4:00-4:59, 22:00-22:59, 0:00-0:59, 3:00-3:59
-4. **Most Active Listening Days**: Wednesday, Monday, Tuesday, Sunday, Friday
-6. **Genre Preferences**: Alternative R&B, Chillwave, EDM, Anime Rock, Indie R&B
-7. **Peak Listening Months**: January, February, March
-8. **Drop in Listening Activity**: June and July
-9. **Song Recommendations**: Breathe, Window, i'll be there for you, SURPRISE OF SUMMER, Upside Down, Wicked Games
 
 Final Thoughts
 ---
