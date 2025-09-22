@@ -1,10 +1,10 @@
 # Spotify Wrapped and Music Recommendation System
 Analyzed and visualized user listening habits, including top tracks, artists, and genres, to generate personalized music recommendations.
 
-<img width="1183" alt="spotify.png" src="https://github.com/user-attachments/assets/e0aa548e-3c91-47c5-9308-d305da34768c">
+<img width="1183" alt="spotify.png" src="[https://github.com/user-attachments/assets/e0aa548e-3c91-47c5-9308-d305da34768c](https://github.com/ashleyycao/Spotify/blob/0e6e41d6244b4a6e498e14c168bb4e61a2d9e6df/spotify.png)">
 
 
-
+https://github.com/ashleyycao/Spotify/blob/0e6e41d6244b4a6e498e14c168bb4e61a2d9e6df/spotify.png
 Key Findings
 ---
 1. **Top Artists**: Aimer, Big Time Rush, SCANDAL, SZA, Emotional Oranges
