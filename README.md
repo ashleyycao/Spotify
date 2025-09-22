@@ -3,9 +3,6 @@ Analyzed and visualized user listening habits, including top tracks, artists, an
 
 <img width="1183" ![Spotify Screenshot](spotify.png)
 
-
-
-https://github.com/ashleyycao/Spotify/blob/0e6e41d6244b4a6e498e14c168bb4e61a2d9e6df/spotify.png
 Key Findings
 ---
 1. **Top Artists**: Aimer, Big Time Rush, SCANDAL, SZA, Emotional Oranges
